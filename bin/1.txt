@@ -1,0 +1,10 @@
+printf("%d",a,v);
+printf("x");
+int a=2;
+char b=3;
+if(x>0)
+x=3;
+x+=5;
+s+6;
+a=x          +4;
+return;
